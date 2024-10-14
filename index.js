@@ -8,7 +8,7 @@ window.onscroll = function() {
     a = 1
     
   } else {
-  document.getElementById("options").style.bottom = "-53px";
+  document.getElementById("options").style.bottom = "-58px";
     document.getElementById("hech").className = "fa-solid fa-chevron-down"
     a = 0
     document.getElementById("header").style.top = "-53px";
